@@ -1,3 +1,4 @@
+//initializing of an array
 public class array{
  public static void main(String[] args){
 		int a[];
@@ -9,6 +10,7 @@ public class array{
 				System.out.println(a[i]);				
 	}
 }
+//resizing array
 public class array{
 	static int [] arr;
 	public static int[] resize (int length){
